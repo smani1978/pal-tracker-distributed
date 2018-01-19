@@ -25,3 +25,4 @@ public class UserControllerTest {
         assertThat(result).isEqualTo(new UserInfo(3L, "Some User", "user info"));
     }
 }
+//
